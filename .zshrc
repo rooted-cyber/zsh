@@ -16,7 +16,7 @@ if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]
 fi
 
 source ~/powerlevel10k/powerlevel10k.zsh-theme
-source ab
+#source ab
 source short.sh
 #source 
 
